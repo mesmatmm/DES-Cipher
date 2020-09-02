@@ -1,5 +1,5 @@
-DES Cipher by JAVA
+<strong> DES Cipher by JAVA </strong>
 *******************
-- implementation on DES (Data Encryption Standard)cipher by JAVA.
+- Implementation on <b>DES (Data Encryption Standard)cipher by JAVA</b>.
 - NetBeans Project.
 - Simple GUI frame to test the functionality of the code.
